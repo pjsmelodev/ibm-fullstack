@@ -1,0 +1,49 @@
+SDLC (Software Development Life Cycle):
+
+SDLC -FASES:
+    1 - Planning
+    2 - Design
+    3 - Development
+    4 - Testing
+    5 - Deployment
+    6 - Maintenence
+
+    * Processo discreto (fases separadas) e iterativo
+
+PROCESSOS COMUNS:
+    * Requirements gathering -> SRS - Software Requirements Specification
+    * Design
+    * Coding for quality
+    * Testing
+    * Releases
+    * Documenting
+
+TESTING:
+    * Unit testing
+    * Integration testing
+    * System testing
+    * User acceptance (UAT) ou Beta testing
+
+RELEASES:
+    * Alpha
+    * Beta
+    * GA (General Availability)
+
+REQUIREMENTS:
+    * SRS - Software Requirements Specification
+    * URS - User Requirements Specification
+    * SysRS - System Requirements Specification 
+
+PRACTICE:
+OVERVIEW OF SOFTWARE ENGINEERING:
+1. Which of the following best describes the primary responsibilities of a software engineer?
+    Designing, building, and maintaining software systems
+
+2. Which of the following best describes a key advantage for a business to follow the SDLC? 
+    The SDLC offers an overview of the process, so stakeholders know where they fit into that process
+
+3. Which of the following best describes an activity that happens in the planning phase of the software development lifecycle (SDLC)? 
+    User requirements are written
+
+4. Which of the following best describes an alpha release? 
+    It is the first functioning version of a system released to a select group of stakeholders
