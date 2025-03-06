@@ -1,0 +1,8 @@
+SDLC -> Software Development Life Cycle
+
+    1 -> Planning
+    2 -> Design
+    3 -> Development
+    4 -> Testing
+    5 -> Deployment
+    6 -> Maintenance
