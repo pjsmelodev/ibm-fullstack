@@ -33,3 +33,19 @@ UNGRADED PLUGIN:
 3 - The software engineers release the code into a production environment
         Deployment
 
+PRACTICE ASSIGNMENT:
+
+1 - Which of the following best describes the primary responsibilities of a software engineer? 
+        Designing, building, and maintaining software systems
+
+2 - Which of the following best describes a key advantage for a business to follow the SDLC? 
+        The SDL offers and overview of the process, so stakeholders know where they fit into that process
+
+3 - Which of the following best describes an activity that happens in the planning phase of the software development lifecycle (SDLC)? 
+        User requirements are written
+
+4 - Which of the following best describes an alpha release? 
+        It is the first functioning version of a system released to a select group of stakeholders
+
+5 - Which statement best describes the User Requirements Specification (URS)? 
+        It primarily contains use cases
