@@ -88,4 +88,12 @@ VERSIONS:
 
         3º grupo: The third number indicates patches or minor bug fixes
 
-        4º grupo: The fourth number indicates build numbers, build dates, and less significant changes
+        4º grupo: The fourth number indicates build numbers, build dates, and less significant changes~
+
+TESTING:
+    Functional testing
+    Non-Functional testing
+    Regression testing
+
+    FUNCTIONAL TESTING:
+        Black Box (System Under Test) -> não olha para o código, preocupa-se com o IO
