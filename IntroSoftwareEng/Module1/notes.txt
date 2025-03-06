@@ -97,3 +97,4 @@ TESTING:
 
     FUNCTIONAL TESTING:
         Black Box (System Under Test) -> não olha para o código, preocupa-se com o IO
+        
