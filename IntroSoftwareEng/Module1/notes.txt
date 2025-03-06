@@ -1,4 +1,4 @@
-SDLC -> Software Development Life Cycle
+SDLC -> SOFTWARE DEVELOPMENT LIFE CYCLE
 
     1 -> Planning
     2 -> Design
@@ -6,3 +6,30 @@ SDLC -> Software Development Life Cycle
     4 -> Testing
     5 -> Deployment
     6 -> Maintenance
+
+    As fases são discretas -> não há overlap entre elas
+
+    PHASE 1:
+        SRS -> SOFTWARE REQUIREMENTS SPECIFICATION
+
+    PHASE 2:
+        Design Document
+
+    PHASE 4:
+        Testing:
+            Unit, Integration, System, Acceptance
+    
+    PHASE 5:
+        UAT -> User Acceptance Testing Environment
+
+UNGRADED PLUGIN:
+
+1 - The product manager works with the customer to prioritize the requirements
+        Planning
+    
+2 - The QA tem assesses the code released to the stating platform against que use cases. They discover one requirement has not been addressed
+        Testing
+
+3 - The software engineers release the code into a production environment
+        Deployment
+
