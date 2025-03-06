@@ -49,3 +49,32 @@ PRACTICE ASSIGNMENT:
 
 5 - Which statement best describes the User Requirements Specification (URS)? 
         It primarily contains use cases
+
+
+SOFTWARE DEVELOPMENT METHEDOLOGIES
+
+    WATERFALL METHOD:
+        Plan -> Design -> Develop -> Test -> Deploy -> Mainitain
+
+    V-SHAPE MODEL:
+        -> Verification
+            -> Plan -> System Design -> Architecture Design -> Module Design -> Coding
+        |
+        |-> Coding -> Validation
+                        -> Unit Testing -> Integration Testing -> System Testing -> Acceptance Testing
+    
+    AGILE:
+        Processo iterativo -> Sprint Cycles
+        Circular
+            -> Plan -> Design -> Develop -> Test -> Deploy -> Feedback -> Plan => Para cada Sprint Cycle
+        |
+        |-> De forma a gerar um MVP (ao fim de alguns ciclos)
+            |-> MVP: Minimal Viable Product
+
+        Agile Core Values (Manifesto):
+            Individuals and interactions over processes and tools
+            Working software over comprehensive documentation
+            Customer collaboration over contract negotiation
+            Responding to change over following a plan
+
+VERSIONS:
