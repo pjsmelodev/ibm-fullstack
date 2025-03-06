@@ -78,3 +78,14 @@ SOFTWARE DEVELOPMENT METHEDOLOGIES
             Responding to change over following a plan
 
 VERSIONS:
+    1.0 -> Primeira release (sem updates ou patches)
+    0.x -> Alfa ou beta
+
+    É comum terem 4 grupos de números:
+        1º grupo: The first number indicates major changes to the software, such as a new release
+
+        2º grupo: The second number indicates that minor changes were made to a piece of the software
+
+        3º grupo: The third number indicates patches or minor bug fixes
+
+        4º grupo: The fourth number indicates build numbers, build dates, and less significant changes
