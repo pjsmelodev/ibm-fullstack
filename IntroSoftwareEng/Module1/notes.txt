@@ -107,3 +107,24 @@ TESTING:
 
     REGRESSION TESTING:
         Ocorre quando houve alterações ao projeto ou aos seus requirements
+
+    TESTING LEVELS:
+        Unit
+        Integration
+        System
+        Acceptance
+    
+    UNIT TESTING:
+        At function level
+        Before integration with other modules
+    
+    INTEGRATION TESTING:
+        When two or more modules are combined
+        Also Black Box Testing
+    
+    SYSTEM TESTING:
+        Aplicado num sistema completo
+        Ocorre depois do Integration Testing
+    
+    ACCEPTANCE TESTING:
+        By the customer/stake holder
