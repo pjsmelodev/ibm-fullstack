@@ -97,4 +97,13 @@ TESTING:
 
     FUNCTIONAL TESTING:
         Black Box (System Under Test) -> não olha para o código, preocupa-se com o IO
-        
+        Tests usability and functionality
+    
+    NON-FUNCTIONAL TESTING:
+        Performance
+        Scalability
+        Security
+        Availability
+
+    REGRESSION TESTING:
+        Ocorre quando houve alterações ao projeto ou aos seus requirements
